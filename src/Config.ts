@@ -1,3 +1,4 @@
+
 /**
  * Configuration for a client connection (single node)
  */
@@ -54,3 +55,4 @@ export class Config {
         return this.port;
     }
 }
+
